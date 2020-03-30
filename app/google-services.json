@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1090669114068",
+    "firebase_url": "https://contactos-3e0aa.firebaseio.com",
+    "project_id": "contactos-3e0aa",
+    "storage_bucket": "contactos-3e0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090669114068:android:c4cf074e5988319c404141",
+        "android_client_info": {
+          "package_name": "com.example.contacto2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090669114068-4994a6d3fld3s2r8q5stfkg7ji4103g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToUQFrFezSYjcgrfA2wtcmErhqInYyuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090669114068-4994a6d3fld3s2r8q5stfkg7ji4103g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090669114068:android:0a068ce3d46c919c404141",
+        "android_client_info": {
+          "package_name": "com.simplelifestudio.contactos1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090669114068-4994a6d3fld3s2r8q5stfkg7ji4103g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToUQFrFezSYjcgrfA2wtcmErhqInYyuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090669114068-4994a6d3fld3s2r8q5stfkg7ji4103g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
